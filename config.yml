@@ -1,0 +1,5 @@
+filters:
+  url_patterns:
+    - "/aflw/"  # Exclude AFLW articles
+  title_keywords:
+    - "AFLW"    # Exclude articles with AFLW in title 
